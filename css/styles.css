@@ -97,8 +97,7 @@ a:hover{
     bottom: 300px;
 }
 .mountain{
-    width: 800px;
-    height: 400px;
+    width: 100%;
     position: relative;
     top: 0px;
 }
