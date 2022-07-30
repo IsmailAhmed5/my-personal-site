@@ -85,19 +85,19 @@ a:hover{
 }
 
 .cloud1{
-    width: 150px;
+    width: 100px;
     position: absolute;
     right: 300px;
     top: 50px;
 }
 .cloud2{
-    width: 150px;
+    width: 100px;
     position: absolute;
     left: 300px;
     bottom: 300px;
 }
 .mountain{
-    width: 100%;
+    width: 20em;
     position: relative;
     top: 0px;
 }
